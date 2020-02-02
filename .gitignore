@@ -1,5 +1,6 @@
 credentials.py
 my.py
 venv
+debug.log
 .vscode
 __pycache__
